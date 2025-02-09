@@ -1,2 +1,2 @@
-# Macenomics
-Finance App for tracking stocks
+# Macenomics Frontend
+Front end for finance App for tracking stocks
